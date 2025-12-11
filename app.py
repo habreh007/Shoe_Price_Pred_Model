@@ -84,4 +84,4 @@ if st.button("Predict Shoe Size"):
     )
 
 st.markdown("<hr>", unsafe_allow_html=True)
-st.markdown("<p style='text-align:center; color:gray;'>Developed by HABIB </p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center; color:gray;'>Developed by HABIB UR REHMAN </p>", unsafe_allow_html=True)
